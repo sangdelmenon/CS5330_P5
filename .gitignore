@@ -1,0 +1,18 @@
+# Build artifacts
+cmake-build-debug/
+
+# IDE
+.idea/
+
+# Model weights (large files)
+*.pth
+
+# MNIST data (downloaded at runtime)
+data/
+
+# Assignment HTML (Canvas page)
+Project 5_ Recognition using Deep Networks.html
+Project 5_ Recognition using Deep Networks_files/
+
+# macOS
+.DS_Store
