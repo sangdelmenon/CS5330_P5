@@ -1,9 +1,7 @@
-Name: [Your Name]
+Name: Sangeeth Deleep Menon
 Course: CS5330 - Pattern Recognition and Computer Vision
 Assignment: Project 5 - Recognition using Deep Networks
 Date: Spring 2026
-
-Group Members: [Your Name]
 
 Video Links: N/A
 
